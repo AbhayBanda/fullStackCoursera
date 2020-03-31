@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhayBanda/fullStackCoursera.git"
+  },
+  "author": "Abhay Banda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhayBanda/fullStackCoursera/issues"
+  },
+  "homepage": "https://github.com/AbhayBanda/fullStackCoursera#readme"
+}
